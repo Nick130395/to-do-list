@@ -1,5 +1,5 @@
 # The To-Do list project
 
-    -HTML
-    -CSS
-    -JS
+![](images/to-do-list.png)
+
+
